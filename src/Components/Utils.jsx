@@ -20,7 +20,7 @@ const Navbar = () => {
                     <ul className="navbar-nav ms-auto me-5 fs-4 ">
 
                         <li className="nav-item mx-4">
-                            <NavLink exact activeClassName='text-warning ' className="nav-link " to="/">Home</NavLink>
+                            <NavLink exact activeClassName='text-warning ' className="nav-link " to="/reactbootstrap">Home</NavLink>
                         </li>
 
                         <li className="nav-item mx-4">
